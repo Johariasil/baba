@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Happy Birthday Baba 🌻</title>
+  <title>Happy Birthday Baba</title>
   <style>
     body {
       margin: 0;
@@ -67,7 +67,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>Happy Birthday, Baba ko 🌻</h1>
+    <h1>Happy Birthday, Baba ko </h1>
     <div class="message">
       Alam mo, miss na miss na kita sobra. Ang hirap ng isang araw na halos di tayo nagusap. Ang dami kong gustong sabihin sa'yo.
 
